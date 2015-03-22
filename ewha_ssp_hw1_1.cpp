@@ -5,14 +5,14 @@
  * GitHub Setup Homework 
  * Instructor: Prof. HyungJune Lee
  *
- * Coded by Firstname Lastname
- * Mar xx, 2015
+ * Coded by SO-YEON PARK
+ * Mar 22, 2015
  *
  */
 
 // Add #define pre-processor below
 
- 
+ #define FIRST_PIN 10
 void setup() {
   //Add your code of Lab Assignment #1
 
